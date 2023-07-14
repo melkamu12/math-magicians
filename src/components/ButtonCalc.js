@@ -95,7 +95,7 @@ const ButtonCalculator = ({ ButtonClick }) => {
         data="-"
         className="btn-operator"
         type="button"
-        onClick={() => ButtonClick('1')}
+        onClick={() => ButtonClick('-')}
       >
         &ndash;
       </button>
