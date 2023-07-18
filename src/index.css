@@ -42,3 +42,26 @@ body {
   border: solid 1px #e0e0e0;
   width: auto;
 }
+
+.quote-container {
+  width: auto;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px none #9a9292;
+  border-radius: 5px;
+}
+
+.quote-container p {
+  font-size: 18px;
+  line-height: 1.5;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.quote-container h4 {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  font-style: oblique;
+}
