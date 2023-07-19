@@ -5,32 +5,27 @@ const Homepage = () => {
     <>
       <h1>Welcome to our page!</h1>
       <p className={classes.paragraph}>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut ligula
-        aliquam, eleifend felis ut, dapibus ipsum. Sed eleifend nunc vel posuere
-        rhoncus. Mauris vitae nisi quam. Vivamus non risus dapibus, commodo ex
-        id, posuere justo. Donec nec enim purus. Aenean sit amet leo dapibus,
-        placerat libero et, lacinia turpis. Pellentesque habitant morbi
-        tristique senectus et netus et malesuada fames ac turpis egestas. In
-        tincidunt, odio et pulvinar congue, elit sem finibus massa, vel laoreet
-        elit erat vitae orci. Sed sit amet ultricies eros. Nam bibendum quam
-        vitae turpis interdum, id bibendum turpis fermentum. Etiam rutrum
-        dapibus lacinia. Integer sed lorem lectus. Fusce commodo felis orci, a
-        consequat orci fermentum et. Ut quis nisl lacinia, iaculis ante ut,
-        pretium lacus. Ipsum.
+        Math Magician is a dynamic and engaging website that combines the magic
+        of mathematics with insightful quotes to inspire and educate users. The
+        website features a plethora of mathematical quotes from renowned
+        thinkers and scholars, offering a delightful blend of wisdom and
+        mathematical concepts. These quotes serve as a source of inspiration,
+        sparking curiosity and promoting a positive mindset towards mathematics.
       </p>
 
       <p className={classes.paragraph}>
-        Lorem ipsum Nulla porttitor ullamcorper elit, in iaculis sem aliquet a.
-        Curabitur tincidunt augue vitae tortor elementum lobortis. Proin
-        fringilla ex vitae sapien sagittis, eu porttitor nisi finibus. Nunc ut
-        metus eu mi scelerisque fermentum. Duis sagittis ultricies semper. Sed
-        pulvinar, tortor vel volutpat aliquam, nisi lorem eleifend neque, in
-        malesuada dolor nisi ut magna. Nullam cursus mi in tellus malesuada
-        rhoncus. Proin a diam eleifend, dictum massa at, congue est. Phasellus
-        auctor lectus ipsum, eu efficitur metus eleifend non. Fusce feugiat
-        semper dolor ac malesuada. Nunc sodales, orci in feugiat tincidunt,
-        tellus tellus suscipit velit, eget tincidunt eros turpis non tortor.
-        Ipsum.
+        Additionally, Math Magician provides a user-friendly and intuitive basic
+        calculator application. This calculator allows users to perform simple
+        arithmetic operations with ease. Whether it&apos;s addition,
+        subtraction, multiplication, or division, the calculator efficiently
+        computes the desired results, making it a valuable tool for quick
+        calculations. With its straightforward interface and reliable
+        functionality, the calculator on Math Magician ensures users have a
+        handy and accessible tool for their day-to-day mathematical needs.
+        Whether you&apos;re a student looking for a quick calculation solution
+        or someone seeking mathematical inspiration, Math Magician is your go-to
+        website that combines quotes and a basic calculator to make mathematics
+        both enjoyable and practical.
       </p>
     </>
   );

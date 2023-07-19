@@ -7,7 +7,9 @@ function RootLayout() {
     <>
       <MainNavigation />
       <main className={classes.content}>
-        <Outlet />
+        <div className={classes.verticallyCentered}>
+          <Outlet />
+        </div>
       </main>
     </>
   );

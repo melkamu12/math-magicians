@@ -6,7 +6,9 @@ const MathCalculator = () => {
     <>
       <div className={classes.mathpage}>
         <h2>Let&apos;s do Some math!</h2>
-        <Calculator className={classes.Calculator} />
+        <div className={classes.Calculator}>
+          <Calculator />
+        </div>
       </div>
     </>
   );

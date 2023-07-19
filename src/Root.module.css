@@ -1,5 +1,5 @@
 .content {
-  margin: 2rem auto;
+  margin: 3rem auto;
 }
 
 .header {
@@ -30,15 +30,23 @@
 
 .paragraph {
   line-height: 1.5;
-  margin: 10px;
+  margin: 2rem auto;
 }
 
 .mathpage {
   display: flex;
-  margin: 50px;
 }
 
 .mathpage h2 {
-  width: 20%;
-  text-align: right;
+  width: 50%;
+  text-align: left;
+  margin-right: 60px;
+}
+
+.verticallyCentered {
+  justify-content: left;
+}
+
+.Calculator {
+  width: 100%;
 }
