@@ -9,7 +9,7 @@ body {
 }
 
 .Math-Calculator {
-  width: 300px;
+  width: 400px;
   margin: auto auto;
 }
 
@@ -45,7 +45,7 @@ body {
 
 .quote-container {
   width: auto;
-  margin: 0 auto;
+  margin: 8rem auto;
   padding: 10px;
   border: 1px none #9a9292;
   border-radius: 5px;
