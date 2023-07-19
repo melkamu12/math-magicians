@@ -1,0 +1,44 @@
+.content {
+  margin: 2rem auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.List {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.List li {
+  margin-right: 10px;
+  color: #1f08b5;
+}
+
+.List li:last-child {
+  margin-right: 0;
+}
+
+.paragraph {
+  line-height: 1.5;
+  margin: 10px;
+}
+
+.mathpage {
+  display: flex;
+  margin: 50px;
+}
+
+.mathpage h2 {
+  width: 20%;
+  text-align: right;
+}
