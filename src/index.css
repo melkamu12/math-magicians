@@ -9,7 +9,8 @@ body {
 }
 
 .Math-Calculator {
-  width: 400px;
+  width: 30rem;
+  height: auto;
   margin: auto auto;
 }
 
