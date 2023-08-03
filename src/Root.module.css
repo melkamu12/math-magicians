@@ -50,3 +50,7 @@
 .Calculator {
   width: 100%;
 }
+
+.active {
+  color: blue;
+}
